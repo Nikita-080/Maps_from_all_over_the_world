@@ -2,4 +2,5 @@
 Add-on for game The Battle for Wesnoth
 
 Contains maps for 2 and 3 players
+
 Avaliable on official add-ons server
