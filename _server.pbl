@@ -1,0 +1,49 @@
+title="Maps from all over the world"
+type="map_pack"
+icon="icons\icon-hotseat.png"
+version="1.0.0"
+author="RBnik"
+passphrase="themaps"
+description="Contains maps for 2 and 3 players. The balance is not guaranteed.
+
+2p one step away from the abyss
+2p sky islands
+2p the criminal war
+2p the elder underworld
+2p the split of the Wesnoth
+3p ancient dwarves secrets
+3p between two fires
+3p deadly swamps
+3p eternal islands
+3p gates of Aldurlos
+3p northern fortresses
+3p the battle of the crying mountain
+3p troll mine
+3p wild lands"
+
+email="riabovnick080@yandex.ru"
+
+[translation]
+    language="ru"
+    title="Карты со всего света"
+    description="Содержит карты для 2 и 3 игроков. Баланс не гарантирован.
+
+2и в шаге от бездны
+2и небесные острова
+2и преступная война
+2и древний подземный мир
+2и раздел Веснота
+3и тайны древних дворфов
+3и меж двух огней
+3и смертельные болота
+3и вечные острова
+3и врата Алдурлоса
+3и северные цитадели
+3и битва у плачущей горы
+3и шахты тролей
+3и дикие земли"
+[/translation]
+
+[feedback]
+    topic_id=58508
+[/feedback]
