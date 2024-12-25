@@ -1,6 +1,6 @@
 title="Maps from all over the world"
 type="map_pack"
-icon="icons\icon-hotseat.png"
+icon="units/human-loyalists/knight/knight.png"
 version="1.0.0"
 author="RBnik"
 passphrase="themaps"
@@ -45,5 +45,5 @@ email="riabovnick080@yandex.ru"
 [/translation]
 
 [feedback]
-    topic_id=58508
+    topic_id=58987
 [/feedback]
