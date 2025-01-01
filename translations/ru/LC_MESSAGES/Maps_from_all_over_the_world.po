@@ -1,0 +1,95 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
+"POT-Creation-Date: 2024-06-08 15:09 UTC\n"
+"PO-Revision-Date: 2024-07-24 11:00+0500\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.4.4\n"
+"X-Poedit-Basepath: ../../..\n"
+"X-Poedit-SearchPath-0: _main.cfg\n"
+"X-Poedit-SearchPath-1: era.cfg\n"
+"X-Poedit-SearchPath-2: units/IL_Warrior.cfg\n"
+
+msgid "Horse warrior"
+msgstr "Конный воин"
+
+msgid "2p_one_step_away_from_the_abyss"
+msgstr "2и в шаге от бездны"
+
+msgid "2p_sky_lands"
+msgstr "2и небесные острова"
+
+msgid "2p_the_criminal_war"
+msgstr "2и преступная война"
+
+msgid "2p_the_elder_underworld"
+msgstr "2и древний подземный мир"
+
+msgid "2p_the_split_of_The_Wesnoth"
+msgstr "2и раздел Веснота"
+
+msgid "3p_ancient_dwarves_secrets"
+msgstr "3и тайны древних дворфов"
+
+msgid "3p_between_two_fires"
+msgstr "3и меж двух огней"
+
+msgid "3p_curse_treasure"
+msgstr "3и проклятое сокровище"
+
+msgid "3p_deadly_swamps"
+msgstr "3и смертельные болота"
+
+msgid "3p_eternal_islands"
+msgstr "3и вечные острова"
+
+msgid "3p_gates_of_Aldurlos"
+msgstr "3и врата Алдурлоса"
+
+msgid "3p_northern_fortresses"
+msgstr "3и северные цитадели"
+
+msgid "3p_the_battle_of_the_crying_mountain"
+msgstr "3и битва у плачущей горы"
+
+msgid "3p_troll_mine"
+msgstr "3и шахты тролей"
+
+msgid "3p_wild_lands"
+msgstr "3и дикие земли"
+
+msgid "Knalgan Alliance"
+msgstr "Альянс Кналга"
+
+msgid "Duldrus"
+msgstr "Дулдрус"
+
+msgid "Undead"
+msgstr "Нежить"
+
+msgid "Galembor"
+msgstr "Галембор"
+
+msgid "Loyalists"
+msgstr "Лоялисты"
+
+msgid "Kandir"
+msgstr "Кандир"
+
+msgid "I knew it, the ancient necromancer had cast a curse. These skeletons are already covered in cobwebs and dust, but as soon as we enter the cave, they will take up axes."
+msgstr "Так и знал, древний некромант наложил проклятие. Эти скелеты уже покрылись паутиной и пылью, но как только мы войдем в пещеру они примутся за топоры."
+
+msgid "My lord. There are guards ahead. They won't budge unless they're bothered. But we'll have to kill them if we want to get the treasure."
+msgstr "Мой госсссподин. Впереди страаажа. Они не сдвинуться с мессссста если их не побессспокоить. Но нам придется их убить, если хотим заполучить сокрооовища."
+
+msgid "To arms! There are dead people ahead! They will not leave the shelter themselves, they will have to fight in caves."
+msgstr "К оружию! Впереди мертвецы! Сами они не покинут укрытие, придется сражаться в пещерах."
+
+msgid "The gold is ours!"
+msgstr "Золото наше!"
