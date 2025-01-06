@@ -85,7 +85,7 @@ msgstr "Кандир"
 msgid "I knew it, the ancient necromancer had cast a curse. These skeletons are already covered in cobwebs and dust, but as soon as we enter the cave, they will take up axes."
 msgstr "Так и знал, древний некромант наложил проклятие. Эти скелеты уже покрылись паутиной и пылью, но как только мы войдем в пещеру они примутся за топоры."
 
-msgid "My lord. There are guards ahead. They won't budge unless they're bothered. But we'll have to kill them if we want to get the treasure."
+msgid "My looord. There are guardsss ahead. They won't budge unlesssss they're bothered. But we'll have to kill them if we want to get the treeeeasure."
 msgstr "Мой госсссподин. Впереди страаажа. Они не сдвинуться с мессссста если их не побессспокоить. Но нам придется их убить, если хотим заполучить сокрооовища."
 
 msgid "To arms! There are dead people ahead! They will not leave the shelter themselves, they will have to fight in caves."
@@ -93,3 +93,6 @@ msgstr "К оружию! Впереди мертвецы! Сами они не �
 
 msgid "The gold is ours!"
 msgstr "Золото наше!"
+
+msgid "It seems that we have arrived on time. The enemies have united, but there is still hope!"
+msgstr "Кажется, мы пришли вовремя. Враги объединились, но надежда еще есть!"
