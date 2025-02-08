@@ -58,6 +58,9 @@ msgstr "3и северные цитадели"
 msgid "3p_the_battle_of_the_crying_mountain"
 msgstr "3и битва у плачущей горы"
 
+msgid "3p_the_city_of_tears"
+msgstr "3и город слёз"
+
 msgid "3p_troll_mine"
 msgstr "3и шахты тролей"
 
@@ -96,3 +99,21 @@ msgstr "Золото наше!"
 
 msgid "It seems that we have arrived on time. The enemies have united, but there is still hope!"
 msgstr "Кажется, мы пришли вовремя. Враги объединились, но надежда еще есть!"
+
+msgid "As agreed, we took you to the abandoned city. It remains only to divide the treasures."
+msgstr "Как и договаривались, мы провели вас до заброшенного города. Осталось только разделить сокровища."
+
+msgid "You have to be careful in these woods. I feel like there's someone else here."
+msgstr "В этих лесах нужно быть осторожными. Я чувствую, здесь есть кто то еще."
+
+msgid "It looks like you've been pinned down by other elven gold lovers. We'll help fight back, but we'll have to increase our share, haha."
+msgstr "Похоже, вас прижали другие любители эльфийского золота. Мы поможем отбиться, но нашу долю придется увеличить, хаха."
+
+msgid "Our people may have left this city many years ago, but we will not allow it to be desecrated."
+msgstr "Пусть наш народ покинул этот город много лет назад, но мы не позволим осквернять его."
+
+msgid "I curse you vile marauders!"
+msgstr "Я проклинаю вас, мерзкие мародеры!"
+
+msgid "The way to the city is over my dead body. It is my duty to protect the sacred land or die trying."
+msgstr "Путь в город лежит через мой труп. Защитить священную землю или умереть пытаясь, это мой долг."
