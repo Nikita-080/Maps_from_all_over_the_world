@@ -1,7 +1,7 @@
 title="Maps from all over the world"
 type="map_pack"
 icon="units/human-loyalists/knight/knight.png"
-version="1.0.3"
+version="1.0.4"
 author="RBnik"
 passphrase="themaps"
 description="Contains maps for 2 and 3 players. The balance is not guaranteed.
@@ -19,7 +19,9 @@ description="Contains maps for 2 and 3 players. The balance is not guaranteed.
 3p gates of Aldurlos
 3p northern fortresses
 3p the battle of the crying mountain
+3p the city of tears
 3p troll mine
+3p under the wings of the ancients
 3p wild lands"
 
 email="riabovnick080@yandex.ru"
@@ -42,7 +44,9 @@ email="riabovnick080@yandex.ru"
 3и врата Алдурлоса
 3и северные цитадели
 3и битва у плачущей горы
+3и город слёз
 3и шахты тролей
+3и под крыльями древних
 3и дикие земли"
 [/translation]
 

@@ -64,6 +64,9 @@ msgstr "3и город слёз"
 msgid "3p_troll_mine"
 msgstr "3и шахты тролей"
 
+msgid "3p_under_the_wings_of_the_ancients"
+msgstr "3и под крыльями древних"
+
 msgid "3p_wild_lands"
 msgstr "3и дикие земли"
 
