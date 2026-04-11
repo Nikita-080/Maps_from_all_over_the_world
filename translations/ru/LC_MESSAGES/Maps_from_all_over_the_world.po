@@ -19,6 +19,9 @@ msgstr ""
 msgid "Horse warrior"
 msgstr "Конный воин"
 
+msgid "2p_blue_dagger"
+msgstr "2и синий кинжал"
+
 msgid "2p_one_step_away_from_the_abyss"
 msgstr "2и в шаге от бездны"
 

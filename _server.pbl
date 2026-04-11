@@ -1,11 +1,12 @@
 title="Maps from all over the world"
 type="map_pack"
 icon="units/human-loyalists/knight/knight.png"
-version="1.0.4"
+version="1.0.7"
 author="RBnik"
 passphrase="themaps"
-description="Contains maps for 2 and 3 players. The balance is not guaranteed.
+description="Contains custom maps and simple scenarios for 2-5 players. The balance is not guaranteed)
 
+2p blue dagger
 2p one step away from the abyss
 2p sky islands
 2p the criminal war
@@ -22,15 +23,18 @@ description="Contains maps for 2 and 3 players. The balance is not guaranteed.
 3p the city of tears
 3p troll mine
 3p under the wings of the ancients
-3p wild lands"
+3p wild lands
+4p the end of Great Forest
+5p there is no peace among the dunes"
 
 email="riabovnick080@yandex.ru"
 
 [translation]
     language="ru"
     title="Карты со всего света"
-    description="Содержит карты для 2 и 3 игроков. Баланс не гарантирован.
+    description="Содержит пользовательские карты и простые сценарии для 2-5 игроков. Баланс не гарантирован)
 
+2и синий кинжал
 2и в шаге от бездны
 2и небесные острова
 2и преступная война
@@ -47,7 +51,9 @@ email="riabovnick080@yandex.ru"
 3и город слёз
 3и шахты тролей
 3и под крыльями древних
-3и дикие земли"
+3и дикие земли
+4и конец Великого Леса
+5и нет мира среди дюн"
 [/translation]
 
 [feedback]
